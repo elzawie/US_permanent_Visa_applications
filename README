@@ -1,5 +1,5 @@
 The following Jupyter notebook was created in order to derive some meaningful insights from the US Permanent Visa Applications dataset and train Logistic Regression, K-nearest neighbors, Random Forest and Gradient Boosted Classifiers. Data covers years 2012 - 2017 and includes information on employer, position, wage offered, job posting history, employee education and past visa history, associated lawyers, and final decision. It was collected and distributed by the US Department of Labor.
-_______________
+
 
 The US Permanent Visa Applications dataset can be downloaded using the below hyperlink.
 
